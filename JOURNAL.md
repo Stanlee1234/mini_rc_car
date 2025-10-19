@@ -20,5 +20,5 @@ Its not very good, but I will still try to make some improvements to it as it mo
 
 ![Screenshot 2025-10-18 at 22.13.42.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIxMywicHVyIjoiYmxvYl9pZCJ9fQ==--db456fdebf29ff4b6b2bbfc0195af7713042e4ce/Screenshot%202025-10-18%20at%2022.13.42.png)
 
-it still looks kinda wonky because I am in the middle of testing something. Bye!  
+it still looks kinda wonky because I am in the middle of testing something. Also the real car will not be using a Arduino, probally a small ESP32 and using relays + batteries. Anyways, Bye!  
 
